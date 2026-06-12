@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import avatarImg from './assets/avatar.png';
+import avatarImg from './assets/avatar.jpg';
 
 const TITLES = [
   'Cybersecurity Enthusiast',
