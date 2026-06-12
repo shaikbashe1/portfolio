@@ -347,7 +347,7 @@ export default function App() {
                 <a href="#projects" className="btn btn-primary">
                   <i className="fa-solid fa-code"></i> View Projects
                 </a>
-                <a href="/resume_shaik_bashe.pdf" download="Resume_Shaik_Bashe.pdf" className="btn btn-outline">
+                <a href="./resume_shaik_bashe.pdf" download="Resume_Shaik_Bashe.pdf" className="btn btn-outline">
                   <i className="fa-solid fa-file-pdf"></i> Resume (PDF)
                 </a>
               </div>
