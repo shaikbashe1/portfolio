@@ -487,7 +487,7 @@ export default function App() {
 
             <div style={{ marginTop: '1.5rem' }}>
               <a
-                href="https://linkedin.com/in/shaik-bashe"
+                href="https://www.linkedin.com/in/shaik-bashe-55183b359/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cert-badge"
@@ -835,7 +835,7 @@ export default function App() {
       <footer className="footer">
         <div className="container">
           <div className="footer-socials">
-            <a href="https://linkedin.com/in/shaik-bashe" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
+            <a href="https://www.linkedin.com/in/shaik-bashe-55183b359/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
               <i className="fa-brands fa-linkedin"></i>
             </a>
             <a href="https://github.com/shaikbashe1" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
