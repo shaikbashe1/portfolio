@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shaikbashe.dev/sitemap.xml
+Sitemap: https://shaikbashe1.github.io/sitemap.xml
